@@ -1,5 +1,5 @@
 const Logger = (name) => {
-	console.log('Bye, ' + name);
+	console.log('Very good Bye, ' + name);
 }
 
 module.exports= Logger
